@@ -16,4 +16,4 @@ Detailed instructions can be found [here](http://www.student.bth.se/~maof14/java
 Requirements
 ------------
 
-You will need to have included the jQuery plugin to your project. 
+Your project needs to have the [jQuery](http://jquery.com/download/) library linked. 
