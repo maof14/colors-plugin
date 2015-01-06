@@ -1,0 +1,9 @@
+.change-colors {
+  height: 50px;
+  width: 50px;
+  margin: 8px;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  transition: background-color ease-in-out 0.5s;
+  float: left;
+}
